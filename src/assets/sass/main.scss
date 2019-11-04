@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Proxima Nova Bl';
+  src: url('ProximaNova-Black.eot');
+  src: local('Proxima Nova Black'), local('ProximaNova-Black'),
+    url('ProximaNova-Black.eot?#iefix') format('embedded-opentype'),
+    url('ProximaNova-Black.woff2') format('woff2'),
+    url('ProximaNova-Black.woff') format('woff'),
+    url('ProximaNova-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+body {
+  background-color: rgba(lime, .3);
+  color: blue;
+  line-height: 1.2;
+}
